@@ -1,5 +1,5 @@
 # DevOps-Practice
-Welcome to the DevOps Git & GitHub Practice Repository!
+Welcome to the **DevOps Git & GitHub** Practice Repository.
 This repository is designed for DevOps engineers and learners to practice version control workflows, set up Git/GitHub accounts, and master Git operations that are essential in real-world DevOps environments.
 
 **📌 Why This Repository?**
